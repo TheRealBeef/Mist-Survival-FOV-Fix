@@ -1,5 +1,5 @@
 # Mist Survival FOVFix
-Allows choosing of higher than 90 FOV in Mist Survival
+Allows choosing of higher than 90 FOV in Mist Survival (Up to 110)
 
 
 # Instructions
